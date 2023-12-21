@@ -1,0 +1,13 @@
+import styled from "styled-components"
+
+export const StyledContainer = styled.div`
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 1rem;
+
+    h1{
+        margin-bottom: 2.3rem;
+        margin-top: 2rem;
+    }
+`
